@@ -1,4 +1,7 @@
 Clique em 'INICIAR'
-Digite o nome do individuo 
+<br>
+Digite o nome do individuo
+<br>
 Clique em 'CONFIRMAR' 
+<br>
 Tchãran, ele foi amaldiçoado !
