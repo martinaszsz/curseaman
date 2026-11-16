@@ -70,8 +70,10 @@ div#container {
 #campo-img img {
    margin: 0;
    width: 400px;
-  padding-top: 100px;
-  padding-bottom: 50px;
+   margin-top: 50px;
+  margin-bottom: 30px;
+  border: solid red 1px;
+  
 }
 
 
